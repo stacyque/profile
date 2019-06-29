@@ -1,0 +1,13 @@
+body{
+padding:0;
+margin:0;
+}
+.navbar-brand{
+    color:#eee;
+}
+#dropdown{
+    margin-right:200px;
+}
+.carousel-item{
+    height:120px;;
+}

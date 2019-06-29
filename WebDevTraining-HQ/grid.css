@@ -1,0 +1,57 @@
+.jumbotron{
+    background-color:#6E7DE0;
+    text-align:center;
+}
+.jumbotron:hover{
+    background-color:rgb(53, 64, 133);
+    color:white;
+    transition:0.6s ease;
+}
+.col-sm-4:nth-child(even){
+    background-color:rgb(214, 214, 214);
+}
+.col-sm-4:nth-child(odd){
+    background-color:rgb(214, 214, 214);
+}
+.col-sm-4:nth-child(even):hover{
+    background-color:#C6E06E;
+    color:#eee;
+    transition:0.6s ease;
+}
+.col-sm-4:nth-child(odd):hover{
+    background-color:#66D8CA;
+    color:#eee;
+    transition:0.6s ease;
+}
+.col-sm-4{
+    padding:10px;
+    text-align:center;
+}
+.col-sm-6:nth-child(odd){
+    background-color:rgb(214, 214, 214);
+}
+.col-sm-6:nth-child(odd):hover{
+    background-color:#66D8CA;
+    color:#eee;
+    transition:0.6s ease;
+}
+.col-sm-6{
+    padding:10px;
+    text-align:center;
+}
+.col-sm-1:nth-child(odd){
+    background-color:rgb(214, 214, 214);
+}
+.col-sm-1:nth-child(odd):hover{
+    background-color:#66D8CA;
+    color:#eee;
+    transition:0.6s ease;
+}
+.col-sm-1{
+    padding:10px;
+    text-align:center;
+}
+.row{
+    margin:auto;
+}
+

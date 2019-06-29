@@ -1,0 +1,13 @@
+.container{
+    padding:15px;
+}
+.jumbotron{
+    background-color:#EAD0A9;
+    border-radius:30px;
+}
+.btn{
+    border-radius:18px;
+}
+.dropdown{
+    margin-left:128px;
+}
